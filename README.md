@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Harinee 👋
 
-<!--
-**Harinee2501/Harinee2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 **2nd Year Computer Science Student** with a passion for technology and innovation.
+- 💻 **Aspiring Software Engineer** with experience in C, Python, and Machine Learning.
+- 🌱 Currently focused on **Data Structures and Algorithms** and building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- **Languages**: C, Python
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools**: Git, GitHub, VS Code
+- **Machine Learning**: Linear & Logistic Regression, Clustering, Classification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- **Email**: harineemanikandan@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/harinee-manikandan-2236952b3/
+
+## Goals for 2024
+- Contribute to open-source projects.
+- Improve problem-solving skills by practicing more on platforms like LeetCode.
+- Build a portfolio of projects showcasing my skills in ML and software development.
+
