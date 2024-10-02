@@ -17,6 +17,6 @@
 
 ## Goals for 2024
 - Contribute to open-source projects.
-- Improve problem-solving skills by practicing more on platforms like LeetCode.
+- Improve problem-solving skills.
 - Build a portfolio of projects showcasing my skills in ML and software development.
 
