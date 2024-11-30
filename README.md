@@ -1,9 +1,10 @@
 ## Hi there, I'm Harinee 👋
 
 ## About Me
-- 🎓 **2nd Year Computer Science Student** with a passion for technology and innovation.
-- 💻 Interested to work on domains like **Machine Learning and Full-Stack development**.
-- 🌱 Currently focused on gaining more knowledge on **Advanced Machine Learning algorithms and Generative AI**.
+-  **2nd Year Computer Science Student** with a passion for technology and innovation.
+-  Interested to work on domains like **Machine Learning and Full-Stack development**.
+-  Currently focused on gaining more knowledge on **Advanced Machine Learning algorithms and Generative AI**.
+-  Focusing on improving my problem-solving skills.
 
 ## Skills & Technologies
 **Programming Languages**:	Python, C, Java, MySQL
