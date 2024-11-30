@@ -2,8 +2,8 @@
 
 ## About Me
 - 🎓 **2nd Year Computer Science Student** with a passion for technology and innovation.
-- 💻 **Aspiring Software Engineer** with experience in C, Python, and Machine Learning.
-- 🌱 Currently focused on **Data Structures and Algorithms** and building projects that solve real-world problems.
+- 💻 Interested to work on domains like **Machine Learning and Full-Stack development**.
+- 🌱 Currently focused on gaining more knowledge on **Advanced Machine Learning algorithms and Generative AI**.
 
 ## Skills & Technologies
 **Programming Languages**:	Python, C, Java, MySQL
