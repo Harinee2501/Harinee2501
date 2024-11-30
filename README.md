@@ -7,10 +7,15 @@
 
 ## Skills & Technologies
 **Programming Languages**:	Python, C, Java, MySQL
+
 **Web Development**:	HTML, CSS, JavaScript, React.js, Node.js, Express.js, Django, Flask
+
 **Tools**:	VS Code, Google Colab, GitHub
+
 **Libraries**:	Scikit-Learn, Pandas, NumPy, Matplotlib, PyTorch, Keras, Ultralytics, TensorFlow, OpenCV
+
 **Predictive Modelling**:	Regression, Classification, Clustering, Augmentation
+
 **Deep Learning**:	Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transfer Learning, Data Preprocessing & Augmentation, Model Optimization
 
 ## Get in Touch
