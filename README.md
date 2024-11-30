@@ -6,10 +6,12 @@
 - 🌱 Currently focused on **Data Structures and Algorithms** and building projects that solve real-world problems.
 
 ## Skills & Technologies
-- **Languages**: C, Python
-- **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, VS Code
-- **Machine Learning**: Linear & Logistic Regression, Clustering, Classification
+**Programming Languages**:	Python, C, Java, MySQL
+**Web Development**:	HTML, CSS, JavaScript, React.js, Node.js, Express.js, Django, Flask
+**Tools**:	VS Code, Google Colab, GitHub
+**Libraries**:	Scikit-Learn, Pandas, NumPy, Matplotlib, PyTorch, Keras, Ultralytics, TensorFlow, OpenCV
+**Predictive Modelling**:	Regression, Classification, Clustering, Augmentation
+**Deep Learning**:	Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transfer Learning, Data Preprocessing & Augmentation, Model Optimization
 
 ## Get in Touch
 - **Email**: harineemanikandan@gmail.com
@@ -18,5 +20,5 @@
 ## Goals for 2024
 - Contribute to open-source projects.
 - Improve problem-solving skills.
-- Build a portfolio of projects showcasing my skills in ML and software development.
+- Build more meaningful projects to solve real-world problems.
 
